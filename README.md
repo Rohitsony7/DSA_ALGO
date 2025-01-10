@@ -1,2 +1,2 @@
-# DSA_ALGO_IN_JAVA
+# DSA_ALGO
  
